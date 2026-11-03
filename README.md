@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Harshitha R! 👋
 
-<!--
-**rhharshitha/rhharshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA (AI & ML) Student
 
-Here are some ideas to get you started:
+💻 I'm a beginner programmer interested in Python, Artificial Intelligence, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+- Python
+- NumPy
+- Data Science
+- Machine Learning
+
+🚀 My Projects
+
+- "NumPy in Python" (https://github.com/rhharshitha/NumPy-in-Python)
+
+🎯 My Goal
+
+To become a skilled Software Engineer and build useful real-world projects.
+
+📫 Connect with Me
+
+GitHub: "rhharshitha" (https://github.com/rhharshitha)
