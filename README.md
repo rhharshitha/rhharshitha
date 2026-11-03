@@ -22,3 +22,10 @@ To become a skilled Software Engineer and build useful real-world projects.
 📫 Connect with Me
 
 GitHub: "rhharshitha" (https://github.com/rhharshitha)
+
+### 🛠️ Skills
+- Python (Beginner)
+- NumPy
+- Git & GitHub
+- Basic Programming
+- Google Colab
